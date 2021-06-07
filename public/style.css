@@ -12,7 +12,7 @@
 
 body {
   font-family: 'VT323', monospace;
-  background-color: #333;
+  background-color: #111;
   color: #ccc;
   font-size: 29px;
   line-height: 1.6;
@@ -71,7 +71,7 @@ nav ul li {
 }
 
 .wb-body {
-  background: #111;
+  background: rgb(43, 42, 42);
   padding: 20px;
 }
 
